@@ -1,0 +1,19 @@
+baseurl = "http://zhen.org/"
+languageCode = "en-us"
+title = "Zen 3.1"
+theme = "hyde"
+copyright = "Jian Zhen"
+
+[Author]
+	name = "Jian Zhen"
+
+[Taxonomies]
+    tag = "tags"
+    category = "categories"
+    series = "series"
+
+[params]
+	description = "Product. Data. Code"
+	twitter = "https://twitter.com/zhenjl"
+	github = "https://github.com/zhenjl"
+	disqusShortname = "zen30"
