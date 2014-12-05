@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<meta charset="utf-8" />
+	<meta name="Author" content="Apple Inc." />
+	<meta name="viewport" content="width=1024" />
+	<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7, IE=9" />
+	<link id="globalheader-stylesheet" rel="stylesheet" href="http://images.apple.com/global/nav/styles/navigation.css" type="text/css" />
+	
+
+	<title>Apple - Page Not Found</title>
+	<script src="http://images.apple.com/global/scripts/lib/prototype.js" type="text/javascript" charset="utf-8"></script>
+	<script src="http://images.apple.com/global/scripts/lib/scriptaculous.js" type="text/javascript" charset="utf-8"></script>
+	<script src="http://images.apple.com/global/scripts/lib/sizzle.js" type="text/javascript" charset="utf-8"></script>
+	<script src="http://images.apple.com/global/scripts/browserdetect.js" type="text/javascript" charset="utf-8"></script>
+	<script src="http://images.apple.com/global/scripts/apple_core.js" type="text/javascript" charset="utf-8"></script>
+	<script src="http://images.apple.com/global/scripts/search_decorator.js" type="text/javascript" charset="utf-8"></script>
+	<script src="http://images.apple.com/global/scripts/feedstatistics.js" type="text/javascript" charset="utf-8"></script>
+	<script src="http://images.apple.com/global/ac_base/ac_base.js" type="text/javascript" charset="utf-8"></script>
+	<script src="http://images.apple.com/global/ac_retina/ac_retina.js" type="text/javascript" charset="utf-8"></script>
+
+	<link rel="stylesheet" href="http://images.apple.com/global/styles/base.css" type="text/css" />
+	<style type="text/css">
+		#content a { text-decoration: none; }
+		#content a:hover { text-decoration: underline; }
+		.grid6col .column { width: 14%; margin-left: 2%; }
+		.rownext { margin-top:20px;}
+	</style>
+</head>
+<body>
+	
+	<script type="text/javascript">
+		var searchSection = 'global';
+		var searchCountry = 'us';
+		var aiRequestsEnabled = true;
+		var aiDisplaySuggestions = true;
+	</script>
+
+<script src="http://images.apple.com/global/nav/scripts/globalnav.js" type="text/javascript" charset="utf-8"></script>
+<nav id="globalheader">
+	<!--googleoff: all-->
+	<ul id="globalnav" role="navigation">
+		<li id="gn-apple"><a href="/"><span>Apple</span></a></li>
+		<li id="gn-store"><a href="http://store.apple.com/"><span>Store</span></a></li>
+		<li id="gn-mac"><a href="/mac/"><span>Mac</span></a></li>
+		<li id="gn-ipod"><a href="/ipod/"><span>iPod</span></a></li>
+		<li id="gn-iphone"><a href="/iphone/"><span>iPhone</span></a></li>
+		<li id="gn-ipad"><a href="/ipad/"><span>iPad</span></a></li>
+		<li id="gn-itunes"><a href="/itunes/"><span>iTunes</span></a></li>
+		<li id="gn-support" class="gn-last"><a href="/support/"><span>Support</span></a></li>
+	</ul>
+	<!--googleon: all-->
+	<div id="globalsearch">
+		<form action="/search/" method="post" class="search" id="g-search"><div class="sp-label">
+			<label for="sp-searchtext">Search</label>
+			<input type="text" name="q" id="sp-searchtext" accesskey="s" />
+		</div></form>
+		<div id="sp-magnify"><div class="magnify-searchmode"></div><div class="magnify"></div></div>
+		<div id="sp-results"></div>
+	</div>
+</nav>
+<script type="text/javascript">
+	AC.GlobalNav.Instance = new AC.GlobalNav();
+</script>
+
+	<div id="top">
+<!-- SiteCatalyst code version: H.8. Copyright 1997-2006 Omniture, Inc. -->
+
+
+	
+
+
+
+
+	
+
+
+<script type="text/javascript">
+/* RSID: */
+
+var s_account="appleglobal,applesupport"
+
+</script>
+
+
+	<script type="text/javascript" src="http://images.apple.com/metrics/scripts/s_code_h.js"></script>
+
+
+
+<script type="text/javascript">
+s.pageType="errorPage"
+
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)</script>
+<!-- End SiteCatalyst code version: H.8. -->
+</div>
+
+	<div id="container">
+		<div id="main">
+			<div id="content">
+				<h1>Hmm, the page you’re looking for can’t be found.</h1>
+				<p>Did you try searching? Enter a keyword(s) in the search field above. Or, try one of the links below.</p>
+
+				<div class="grid6col">
+					<div class="column first">
+						<h2>Apple</h2>
+						<ul>
+							<li><a href="/hotnews/">Hot News</a></li>
+							<li><a href="http://store.apple.com/us">Apple Online Store</a></li>
+							<li><a href="/retail/">Apple Retail Store</a></li>
+							<li><a href="/buy/">Find a reseller</a></li>
+							<li><a href="/contact/">Contact Us</a></li>
+							<li><a href="/sitemap/">Site Map</a></li>
+						</ul>
+					</div>
+					<div class="column">
+						<h2>Mac</h2>
+						<ul>
+							<li><a href="/mac-pro/">Mac Pro</a></li>
+							<li><a href="/mac-mini/">Mac mini</a></li>
+							<li><a href="/macbook-air/">MacBook Air</a></li>
+							<li><a href="/macbook-pro/">MacBook Pro</a></li>
+							<li><a href="/imac/">iMac</a></li>
+							<li><a href="/getamac/whichmac.html">Which Mac are you?</a></li>
+							<li><a href="/compare-wifi-models/">Which Wi-Fi are you?</a></li>
+							<li><a href="/osx/">OS X</a></li>
+							<li><a href="/ilife/">iLife</a></li>
+							<li><a href="/iwork/">iWork</a></li>
+						</ul>
+					</div>
+					<div class="column">
+						<h2>iPod</h2>
+						<ul>
+							<li><a href="/ipod-touch/">iPod touch</a></li>
+							<li><a href="/ipodclassic/">iPod classic</a></li>
+							<li><a href="/ipod-nano/">iPod nano</a></li>
+							<li><a href="/ipod-shuffle/">iPod shuffle</a></li>
+							<li><a href="/product-red/">Product (RED)</a></li>
+							<li><a href="/ipod/compare-ipod-models/">Compare iPod Models</a></li>
+							<li><a href="/appletv/">Apple TV</a></li>
+							<li><a href="/ipod/accessories/">Accessories</a></li>
+							<li><a href="/itunes/overview/">iTunes Overview</a></li>
+							<li><a href="/itunes/charts/songs/">iTunes Charts</a></li>
+							<li><a href="http://store.apple.com/us/browse/home/giftcards/itunes/gallery">Buy Gift Cards</a></li>
+						</ul>
+					</div>
+					<div class="column">
+						<h2>iPhone</h2>
+						<ul>
+							<li><a href="/iphone/">iPhone 5</a></li>
+							<li><a href="/iphone/why-iphone/">Why iPhone</a></li>
+							<li><a href="/iphone/features/">Features</a></li>
+							<li><a href="/iphone/design/">Design</a></li>
+							<li><a href="/iphone/built-in-apps/">Built-in Apps</a></li>
+							<li><a href="/iphone/from-the-app-store/">App Store</a></li>
+							<li><a href="/iphone/ios/">iOS</a></li>
+							<li><a href="/iphone/icloud/">iCloud</a></li>
+							<li><a href="/iphone/specs.html">Tech specs</a></li>
+						</ul>
+					</div>
+					<div class="column">
+						<h2>iPad</h2>
+						<ul>
+							<li><a href="/ipad-mini/overview/">iPad mini</a></li>
+							<li><a href="/ipad/overview/">iPad</a></li>
+							<li><a href="/ipad/why-ipad/">Why iPad</a></li>
+							<li><a href="/ipad/compare/">Compare iPad Models</a></li>
+							<li><a href="/ipad/accessories/">iPad Accessories</a></li>
+							<li><a href="/ipad/business/">iPad in Business</a></li>
+							<li><a href="/education/ipad/">iPad in Education</a></li>
+							<li><a href="https://developer.apple.com/ipad/sdk/">iPad for Developers</a></li>
+							<li><a href="/ipad/accessories/">Accessories</a></li>
+							<li><a href="/batteries/ipad.html">Batteries</a></li>
+							<li><a href="/icloud/features/find-my-iphone.html">Find my iPad</a></li>
+							<li><a href="/product-red/">(PRODUCT) RED</a></li>
+						</ul>
+					</div>
+					<div class="column">
+						<h2>iTunes</h2>
+						<ul>
+							<li><a href="/itunes/download/">Download iTunes</a></li>
+							<li><a href="/itunes/what-is/">What is iTunes?</a></li>
+							<li><a href="/itunes/whats-on/">What’s on iTunes</a></li>
+							<li><a href="/itunes/charts/songs/">iTunes Charts</a></li>
+							<li><a href="/itunes/how-to/">How Tos</a></li>
+						</ul>
+					</div>
+				</div>
+
+				<div class="grid6col rownext">
+					<div class="column first">
+						<h2>Downloads</h2>
+						<ul>
+							<li><a href="/itunes/download/">Download iTunes</a></li>
+							<li><a href="/safari/download/">Download Safari</a></li>
+							<li><a href="/quicktime/download/">Download QuickTime</a></li>
+							<li><a href="/downloads/dashboard/">Dashboard Widgets</a></li>
+							<li><a href="/trailers/">iTunes Movie Trailers</a></li>
+						</ul>
+					</div>
+					<div class="column">
+						<h2>Support</h2>
+						<ul>
+							<li><a href="/support/contact/">Contact Support</a></li>
+							<li><a href="/support/">Online Support &amp; Service</a></li>
+							<li><a href="http://discussions.apple.com/">Apple Discussions</a></li>
+							<li><a href="http://support.apple.com/downloads/">Downloads and Updates</a></li>
+							<li><a href="/support/manuals/">Product Manuals</a></li>
+							<li><a href="/support/find/">Support Site Map</a></li>
+						</ul>
+					</div>
+
+				</div>
+			</div>
+		</div>
+	</div><!--/container-->
+<footer id="globalfooter" class="gf-980">
+	<div id="breadory">
+		<ol id="breadcrumbs">
+			<li class="home"><a href="/">Home</a></li>
+			<li>Page Not Found</li>
+		</ol>
+	</div><!--/breadory-->
+	<p class="gf-buy">Shop the <a href="http://store.apple.com/us">Apple Online Store</a> (1-800-MY-APPLE), visit an <a href="/retail/">Apple Retail Store</a>, or find a <a href="/buy/">reseller</a>.</p>
+
+<ul class="gf-links piped">
+	<li><a href="/about/" class="first">Apple Info</a></li>
+	<li><a href="/sitemap/">Site Map</a></li>
+	<li><a href="/hotnews/">Hot News</a></li>
+	<li><a href="/rss/">RSS Feeds</a></li>
+	<li><a href="/contact/" class="contact_us">Contact Us</a></li>
+	<li><a href="/choose-your-country/" class="choose"><img src="http://images.apple.com/global/elements/flags/22x22/usa.png" alt="Choose your country or region" width="22" height="22" data-hires="true" /></a></li>
+</ul>
+
+<div class="gf-sosumi">
+	<p>Copyright © 2013 Apple Inc. All rights reserved.</p>
+	<ul class="piped">
+		<li><a href="/legal/internet-services/terms/site.html" class="first">Terms of Use</a></li>
+		<li><a href="/privacy/">Privacy Policy</a></li>
+	</ul>
+</div>
+
+
+</footer><!--/globalfooter-->
+</body>
+</html>

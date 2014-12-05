@@ -1,7 +1,7 @@
 +++
 date = "2013-11-10T15:04:22-08:00"
 title = "Improving Cityhash Performance by Go Profiling"
-categories = [ "code", "golang", "hashing" ]
+categories = [ "code", "golang", "hashing", "cityhash" ]
 
 +++
 
