@@ -5,7 +5,8 @@ title = "SurgeMQ: MQTT Message Queue @ 750,000 MPS"
 
 +++
 
-[Hacker News](https://news.ycombinator.com/item?id=8708921)
+* Wow, this made front page of [Hacker News](https://news.ycombinator.com/item?id=8708921)! First for me!
+* jacques_chester on HN has an [EXCELLENT comment](https://news.ycombinator.com/item?id=8709146) that's definitely worth reading. [My response](https://news.ycombinator.com/item?id=8709557).
 
 ### tl;dr
 
