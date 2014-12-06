@@ -5,6 +5,8 @@ title = "SurgeMQ: MQTT Message Queue @ 750,000 MPS"
 
 +++
 
+[Hacker News](https://news.ycombinator.com/item?id=8708921)
+
 ### tl;dr
 
 * [SurgeMQ](https://github.com/surge/surgemq) aims to provide a MQTT broker and client library that's fully compliant with [MQTT spec 3.1.1](http://docs.oasis-open.org/mqtt/mqtt/v3.1.1/mqtt-v3.1.1.html). In addition, it tries to be backward compatible with 3.1. 
