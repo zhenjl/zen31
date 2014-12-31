@@ -4,7 +4,7 @@ date = "2014-12-25T00:00:33-08:00"
 title = "PingMQ: A SurgeMQ-based ICMP Monitoring Tool"
 +++
 
-[pingmq](https://github.com/surge/surgemq/tree/master/cmd/pingmq) is developed to demonstrate the different use cases one can use SurgeMQ. In this simplified use case, a network administrator can setup server uptime monitoring system by periodically sending ICMP ECHO_REQUEST to all the IPs in their network, and send the results to SurgeMQ.
+[pingmq](https://github.com/surge/surgemq/tree/master/cmd/pingmq) is developed to demonstrate the different use cases one can use [SurgeMQ](//surgemq.com), a high performance MQTT server and client library. In this simplified use case, a network administrator can setup server uptime monitoring system by periodically sending ICMP ECHO_REQUEST to all the IPs in their network, and send the results to SurgeMQ.
 
 Then multiple clients can subscribe to results based on their different needs. For example, a client maybe only interested in any failed ping attempts, as that would indicate a host might be down. After a certain number of failures the client may then raise some type of flag to indicate host down.
 
