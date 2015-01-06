@@ -41,3 +41,81 @@ One can also subscribe to a specific IP by using the following command.
 $ ./pingmq client -t /ping/+/8.8.8.8
 8 bytes from 8.8.8.8: seq=1 ttl=56 tos=32 time=21.753711ms
 ```
+### Commands
+
+There are two builtin commands for `pingmq`.
+
+**`pingmq server`**
+
+```
+Usage:
+  pingmq server [flags]
+
+ Available Flags:
+  -h, --help=false: help for server
+  -i, --interval=60: ping interval in seconds
+  -p, --ping=[]: Comma separated list of IPv4 addresses to ping
+  -q, --quiet=false: print out ping results
+  -u, --uri="tcp://:5836": URI to run the server on
+```
+
+**`pingmq client`**
+
+```
+Usage:
+  pingmq client [flags]
+
+ Available Flags:
+  -h, --help=false: help for client
+  -s, --server="tcp://127.0.0.1:5836": PingMQ server to connect to
+  -t, --topic=[]: Comma separated list of topics to subscribe to
+```
+
+
+### IP Addresses
+
+To list IPs you like to use with `pingmq`, you can use the following formats:
+
+```
+10.1.1.1      -> 10.1.1.1
+10.1.1.1,2    -> 10.1.1.1, 10.1.1.2
+10.1.1,2.1    -> 10.1.1.1, 10.1.2.1
+10.1.1,2.1,2  -> 10.1.1.1, 10.1.1.2 10.1.2.1, 10.1.2.2
+10.1.1.1-2    -> 10.1.1.1, 10.1.1.2
+10.1.1.-2     -> 10.1.1.0, 10.1.1.1, 10.1.1.2
+10.1.1.1-10   -> 10.1.1.1, 10.1.1.2 ... 10.1.1.10
+10.1.1.1-     -> 10.1.1.1 ... 10.1.1.254, 10.1.1.255
+10.1.1-3.1    -> 10.1.1.1, 10.1.2.1, 10.1.3.1
+10.1-3.1-3.1  -> 10.1.1.1, 10.1.2.1, 10.1.3.1, 10.2.1.1, 10.2.2.1, 10.2.3.1, 10.3.1.1, 10.3.2.1, 10.3.3.1
+10.1.1        -> 10.1.1.0, 10.1.1.1 ... 10.1.1.254, 10.1.1.255
+10.1.1-2      -> 10.1.1.0, 10.1.1.1 ... 10.1.1.255, 10.1.2.0, 10.1.2.1 ... 10.1.2.255
+10.1-2        -> 10.1.0.0, 10.1.0,1 ... 10.2.255.254, 10..2.255.255
+10            -> 10.0.0.0 ... 10.255.255.255
+10.1.1.2,3,4  -> 10.1.1.1, 10.1.1.2, 10.1.1.3, 10.1.1.4
+10.1.1,2      -> 10.1.1.0, 10.1.1.1 ... 10.1.1.255, 10.1.2.0, 10.1.2.1 ... 10.1.2.255
+10.1.1/28     -> 10.1.1.0 ... 10.1.1.255
+10.1.1.0/28   -> 10.1.1.0 ... 10.1.1.15
+10.1.1.0/30   -> 10.1.1.0, 10.1.1.1, 10.1.1.2, 10.1.1.3
+10.1.1.128/25 -> 10.1.1.128 ... 10.1.1.255
+```
+
+### Topic Format
+
+TO subscribe to the `pingmq` results, you can use the following formats:
+
+* `/ping/#` will subscribe to both success and failed pings for all IP addresses
+* `ping/success/+` will subscribe to success pings for all IP addresses
+* `ping/failure/+` will subscribe to failed pings for all IP addresses
+* `ping/+/8.8.8.8` will subscribe to both success and failed pings for all IP 8.8.8.8
+
+### Building
+
+To build `pingmq`, you need to have installed [Go 1.3.3 or 1.4](http://golang.org). Then run the following:
+
+```
+# go get github.com/surge/surgemq
+# cd surgemq/examples/pingmq
+# go build
+```
+
+After that, you should see the `pingmq` command in the pingmq directory.
