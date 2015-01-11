@@ -1,10 +1,11 @@
 +++
 Categories = [ "log", "golang", "code", "sequence" ]
 date = "2015-01-05T22:40:20-08:00"
-title = "Sequence: A High Performance Sequential Semantic Log Analyzer Parser"
+title = "Sequence: A High Performance Sequential Semantic Log Analyzer and Parser"
+draft = true
 +++
 
-`sequence` is a _high performance sequential semantic log message analyzer and parser_.
+[`sequence`](https://github.com/surge/sequence) is a _high performance sequential semantic log message analyzer and parser_.
 
 * It is _sequential_ because it goes through a log message sequentially and does not use regular expressions. 
 * It is _semantic_ because it tries to extract meaningful information out of the log messages and give them semantic indicators, e.g., src IPv4 or dst IPv4. 
@@ -55,6 +56,10 @@ Performance can be improved by adding more cores:
   $ GOMAXPROCS=2 ./sequence bench -p ../../patterns/asa.txt -i ../../data/allasa.log -w 2
   Parsed 234815 messages in 2.51 secs, ~ 93614.09 msgs/sec
 ```
+
+### Documentation
+
+Documentation is available at godoc: [package](http://godoc.org/github.com/surge/sequence), [command](http://godoc.org/github.com/surge/sequence/cmd/sequence).
 
 ### License
 
