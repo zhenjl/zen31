@@ -91,7 +91,7 @@ There are more advanced concepts in Go, such as interface, channel, and goroutin
 
 For anyone coming from a language with threads, goroutine is not a difficult concept to understand. It's basically a light-weight thread that can be executed concurrently. You can run any function as a goroutine.
 
-The more difficult concept is interface. That's because it's a fairly new concept that doesn't really exist in other languages. Once you understand what interfaces are, it's fairly easy to start using them. However, designing your own interfaces is a different story. 
+The more difficult concept is interface. That's because it's a <strike>fairly new concept that doesn't really exist in</strike> concept that's fairly different than other languages. Once you understand what interfaces are, it's fairly easy to start using them. However, designing your own interfaces is a different story. 
 
 The one thing I've seen most developers complain about Go is the lack of generics. Egon made a nice [Summary of Go Generics Discussions](https://docs.google.com/document/d/1vrAy9gMpMoS3uaVphB32uVXX4pi-HnNjkMEgyAHX4N4) that you can read through. For me personally, I don't know any better. I have never used generics and I haven't found a situation where I strongly require it.
 
