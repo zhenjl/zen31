@@ -1,7 +1,7 @@
 +++
 Categories = ["golang"]
 date = "2015-01-13T13:30:00-08:00"
-title = "Go From a Non-Programmer's Perspective"
+title = "Go: From a Non-Programmer's Perspective"
 +++
 
 _Warning: Long Post. Over 3900 words according to `wc`. So read at your own risk. :)_
