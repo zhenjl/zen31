@@ -155,9 +155,9 @@ I've expereinced some of this myself. When I implemented a [Bloom Filter](https:
 
 > Downvoted because I dislike this pattern of learning a new language and then immediately publishing performance data about it, before you know how to write idiomatic or performant code in it.
 
-**Ouch!!** As a new Go developer, this is not the response I expected. In the end though, the commenter also pointed out something that helped me improve the performance of the implementation. (It was also then I realized how important it is to reduce the number of allocation in order to reduce the Go GC pressure.)
+**Ouch!!** As a new Go developer, this is not the response I expected. In the end though, the commenter also pointed out something that helped me improve the performance of the implementation. I was grateful for that. It was also then I realized how important it is to reduce the number of allocation in order to reduce the Go GC pressure. 
 
-I can understand why some developers would feel annoyed about benchmarks from people who have no idea on what they are doing. Regardless, being nice is not a bad thing. Saying things like "WTF is wrong with you" (not related to the bloom filter post) will only push new developers away.
+In hindsight, the comment has a very valid point. I can understand why some developers would feel annoyed about benchmarks from people who have no idea on what they are doing. Regardless, being nice is not a bad thing. Saying things like "WTF is wrong with you" (not related to the bloom filter post) will only push new developers away.
 
 I quickly got over the sting because I am just too old to care about what others think I should or should not do. I continued my learning process by writing and optimizing Go packages, and posting the results in my blog. In fact, the [Go vs Java: Decoding Billions of Integers Per Second](http://zhen.org/blog/go-vs-java-decoding-billions-of-integers-per-second/) post has many of the optimization techniques I tried to increase the performance of Go programs.
 
