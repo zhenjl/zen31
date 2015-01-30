@@ -12,7 +12,7 @@ There are a ton of posts out there that talks about the pros and cons of Go, and
 
 This post is my perspective of Go, how I picked it up, and what I think of it after using it for a while. It is not a post about why Go is better or worse than other languages.
 
-In short, I like Go. It's the first programming language I've used in recent years that I can actually build some interesting projects, e.g., [SurgeMQ](https://github.com/surge/surgemq), in my limited spare time.
+In short, I like Go. It's the first programming language I've used in recent years that I can actually build some interesting projects, e.g., [SurgeMQ](https://github.com/surge/surgemq) ([detailed post](/blog/surgemq-mqtt-message-queue-750k-mps/)), in my limited spare time.
 
 
 ## My Background
