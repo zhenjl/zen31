@@ -1,15 +1,20 @@
 +++
 Categories = [ "log", "golang", "code", "sequence" ]
-date = "2015-01-05T22:40:20-08:00"
-title = "Sequence: A High Performance Sequential Semantic Log Analyzer and Parser"
-draft = true
+date = "2015-02-01T10:40:20-08:00"
+title = "Sequence: A High Performance Sequential Semantic Log Parser at 175,000 MPS"
 +++
 
-[`sequence`](https://github.com/surge/sequence) is a _high performance sequential semantic log message analyzer and parser_.
+sequence
+========
+
+[![GoDoc](http://godoc.org/github.com/strace/sequence?status.svg)](http://godoc.org/github.com/strace/sequence) 
+
+[![GoDoc](http://godoc.org/github.com/strace/sequence/sequence?status.svg)](http://godoc.org/github.com/strace/sequence/sequence)
+
+`sequence` is a _high performance sequential semantic log parser_.
 
 * It is _sequential_ because it goes through a log message sequentially and does not use regular expressions. 
 * It is _semantic_ because it tries to extract meaningful information out of the log messages and give them semantic indicators, e.g., src IPv4 or dst IPv4. 
-* It is an _analyzer_ because analyzes a large corpus of text-based log messages and try to determine the unique patterns that would represent all of them. 
 * It is a _parser_ because it will take a message and parses out the meaningful parts.
 * It is _high performance_ because it can parse 100K+ messages per second without the need to separate parsing rules by log source type.
 
@@ -37,29 +42,32 @@ The following performance benchmarks are run on a single 4-core (2.8Ghz i7) MacB
 bunch of sshd logs, averaging 98 bytes per message. The second is a Cisco ASA log file, averaging 180 bytes per message.
 
 ```
-  $ go version
-  go version go1.4 darwin/amd64
-
   $ ./sequence bench -p ../../patterns/sshd.txt -i ../../data/sshd.all
-  Parsed 212897 messages in 2.65 secs, ~ 80449.93 msgs/sec
+  Parsed 212897 messages in 1.69 secs, ~ 126319.27 msgs/sec
 
   $ ./sequence bench -p ../../patterns/asa.txt -i ../../data/allasa.log
-  Parsed 234815 messages in 4.42 secs, ~ 53081.36 msgs/sec
+  Parsed 234815 messages in 2.89 secs, ~ 81323.41 msgs/sec
+
+  $ ./sequence bench -d ../patterns -i ../data/asasshsudo.log
+  Parsed 447745 messages in 4.47 secs, ~ 100159.65 msgs/sec
 ```
 
 Performance can be improved by adding more cores:
 
 ```
   GOMAXPROCS=2 ./sequence bench -p ../../patterns/sshd.txt -i ../../data/sshd.all -w 2
-  Parsed 212897 messages in 1.52 secs, ~ 140139.27 msgs/sec
+  Parsed 212897 messages in 1.00 secs, ~ 212711.83 msgs/sec
 
   $ GOMAXPROCS=2 ./sequence bench -p ../../patterns/asa.txt -i ../../data/allasa.log -w 2
-  Parsed 234815 messages in 2.51 secs, ~ 93614.09 msgs/sec
+  Parsed 234815 messages in 1.56 secs, ~ 150769.68 msgs/sec
+
+  $ GOMAXPROCS=2 ./sequence bench -d ../patterns -i ../data/asasshsudo.log -w 2
+  Parsed 447745 messages in 2.52 secs, ~ 177875.94 msgs/sec
 ```
 
 ### Documentation
 
-Documentation is available at godoc: [package](http://godoc.org/github.com/surge/sequence), [command](http://godoc.org/github.com/surge/sequence/cmd/sequence).
+Documentation is available at godoc: [package](http://godoc.org/github.com/strace/sequence), [command](http://godoc.org/github.com/strace/sequence/sequence).
 
 ### License
 
@@ -91,22 +99,16 @@ The following concepts are part of the package:
 
 - A _FieldType_ indicates the semantic meaning of the token. For example, a token could be a source IP address (%srcipv4%), or a user (%srcuser% or %dstuser%), an action (%action%) or a status (%status%).
 
-- A _Sequence_ is a list of Tokens. It is returned by the _Scanner_, the _Analyzer_, and the _Parser_.
+- A _Sequence_ is a list of Tokens. It is returned by the _Tokenizer_, and the _Parser_.
 
 - A _Scanner_ is a sequential lexical analyzer that breaks a log message into a sequence of tokens. It is sequential because it goes through log message sequentially tokentizing each part of the message, without the use of regular expressions. The scanner currently recognizes time stamps, IPv4 addresses, URLs, MAC addresses,
 integers and floating point numbers. It also recgonizes key=value or key="value" or key='value' or key=<value> pairs.
-
-- A _Analyzer_ builds an analysis tree that represents all the Sequences from messages. It can be used to determine all of the unique patterns for a large body of messages.
 
 - A _Parser_ is a tree-based parsing engine for log messages. It builds a parsing tree based on pattern sequence supplied, and for each message sequence, returns the matching pattern sequence. Each of the message tokens will be marked with the semantic field types.
 
 ## Sequence Command
 
-The typical workflow of using sequence is to first analyze all of the log messages to determine the unique patterns. This could easily reduce millions of log messages down to maybe 30-50 formats.
-
-Then the analyst can look through these formats and annotate the patterns with the semantic meanings. Once that's done, the analyst can run the parser with these annotated rules and outcome the parsed tokens.
-
-The `sequence` command is developed to demonstrate the use of this package. You can find it in the cmd/sequence directory. 
+The `sequence` command is developed to demonstrate the use of this package. You can find it in the `sequence` directory. The `sequence` command implements the _sequential semantic log parser_.
 
 ```
    Usage:
@@ -114,7 +116,6 @@ The `sequence` command is developed to demonstrate the use of this package. You 
 
    Available Commands:
      scan                      scan will tokenize a log file or message and output a list of tokens
-     analyze                   analyze will analyze a log file and output a list of patterns that will match all the log messages
      parse                     parse will parse a log file and output a list of parsed tokens for each of the log messages
      bench                     benchmark the parsing of a log file, no output is provided
      help [command]            Help about any command
@@ -158,54 +159,6 @@ Example
   #  20: { Field="%funknown%", Type="%string%", Value="/bin/su" }
   #  21: { Field="%funknown%", Type="%literal%", Value="-" }
   #  22: { Field="%funknown%", Type="%literal%", Value="ustream" }
-```
-
-### Analyze
-
-```
-  Usage:
-    sequence analyze [flags]
-
-   Available Flags:
-    -h, --help=false: help for analyze
-    -i, --infile="": input file, required
-    -o, --outfile="": output file, if empty, to stdout
-    -d, --patdir="": pattern directory,, all files in directory will be used, optional
-    -p, --patfile="": initial pattern file, optional
-```
-
-The following command analyzes a set of sshd log messages, and output the
-patterns to the sshd.pat file. In this example, `sequence` analyzed over 200K
-messages and found 45 unique patterns. Notice we are not supplying an existing
-pattern file, so it treats all the patters as new.
-
-```
-  $ ./sequence analyze -i ../../data/sshd.all  -o sshd.pat
-  Analyzed 212897 messages, found 45 unique patterns, 45 are new.
-```
-
-And the output file has entries such as:
-
-```
-  %ts% %string% sshd [ %integer% ] : %string% ( sshd : %string% ) : session %string% for user %string% by ( uid = %integer% )
-  # Jan 15 19:39:26 jlz sshd[7778]: pam_unix(sshd:session): session opened for user jlz by (uid=0)
-```
-
-In the following command, we added an existing pattern file to the mix, which has
-a set of existing rules. Notice now there are only 35 unique patterns, and we were
-able to parse all of the log messages (no new patterns). There are fewer patterns
-because some of the patterns were combined.
-
-```
-  $ ./sequence analyze -d ../../patterns -i ../../data/sshd.all  -o sshd.pat
-  Analyzed 212897 messages, found 35 unique patterns, 0 are new.
-```
-
-The same log message we saw above now has an entry like the following:
-
-```
-  %createtime% %apphost% %appname% [ %sessionid% ] : %string% ( sshd : %string% ) : %object% %action% for user %dstuser% by ( uid = %integer% )
-  # Jan 15 19:39:26 jlz sshd[7778]: pam_unix(sshd:session): session opened for user jlz by (uid=0)
 ```
 
 ### Parse
@@ -283,18 +236,18 @@ log file, averaging 180 bytes per message.
 
 ```
   $ ./sequence bench -p ../../patterns/sshd.txt -i ../../data/sshd.all
-  Parsed 212897 messages in 2.65 secs, ~ 80449.93 msgs/sec
+  Parsed 212897 messages in 1.69 secs, ~ 126319.27 msgs/sec
 
   $ ./sequence bench -p ../../patterns/asa.txt -i ../../data/allasa.log
-  Parsed 234815 messages in 4.42 secs, ~ 53081.36 msgs/sec
+  Parsed 234815 messages in 2.89 secs, ~ 81323.41 msgs/sec
 ```
 
 Performance can be improved by adding more cores:
 
 ```
   GOMAXPROCS=2 ./sequence bench -p ../../patterns/sshd.txt -i ../../data/sshd.all -w 2
-  Parsed 212897 messages in 1.52 secs, ~ 140139.27 msgs/sec
+  Parsed 212897 messages in 1.00 secs, ~ 212711.83 msgs/sec
 
   $ GOMAXPROCS=2 ./sequence bench -p ../../patterns/asa.txt -i ../../data/allasa.log -w 2
-  Parsed 234815 messages in 2.51 secs, ~ 93614.09 msgs/sec
+  Parsed 234815 messages in 1.56 secs, ~ 150769.68 msgs/sec
 ```
