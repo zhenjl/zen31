@@ -4,12 +4,11 @@ date = "2015-02-01T10:40:20-08:00"
 title = "Sequence: A High Performance Sequential Semantic Log Parser at 175,000 MPS"
 +++
 
-sequence
-========
-
 [![GoDoc](http://godoc.org/github.com/strace/sequence?status.svg)](http://godoc.org/github.com/strace/sequence) 
 
 [![GoDoc](http://godoc.org/github.com/strace/sequence/sequence?status.svg)](http://godoc.org/github.com/strace/sequence/sequence)
+
+[github repo](https://github.com/strace/sequence)
 
 `sequence` is a _high performance sequential semantic log parser_.
 
