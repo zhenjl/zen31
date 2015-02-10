@@ -10,6 +10,8 @@ title = "Sequence: Automated Analyzer for Reducing 100,000's of Log Messages to 
 
 [github repo](https://github.com/strace/sequence)
 
+This is part 2 of the `sequence` series. [Part 1](http://zhen.org/blog/sequence-high-performance-sequential-semantic-log--parser/) is about the high performance parser that can parse 100,000-200,000 MPs.
+
 ## Background
 
 This post really takes me down the memory lane. Back in 2005, while I was at LogLogic, we envisioned an automated approach to tagging, or labeling, log messages. More specifically, we wanted to automatically tag specific components within the log messages with their semantic label, such as a source IP address, or a target user.
