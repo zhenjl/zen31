@@ -4,7 +4,7 @@ date = "2015-02-13T01:03:08-08:00"
 title = "Sequence: Optimizing Go For the High Performance Log Scanner"
 +++
 
-Really appreciate everyone upvoting my previous `sequence` posts on [reddit](http://www.reddit.com/r/golang/) and [Hacker News](https://news.ycombinator.com/newest). I hope you can [upvote this post]() as well!
+Really appreciate everyone upvoting my previous `sequence` posts on [reddit](http://www.reddit.com/r/golang/) and [Hacker News](https://news.ycombinator.com/newest). I hope you can [upvote this post](https://news.ycombinator.com/item?id=9047770) as well!
 
 [![GoDoc](http://godoc.org/github.com/strace/sequence?status.svg)](http://godoc.org/github.com/strace/sequence)
 
