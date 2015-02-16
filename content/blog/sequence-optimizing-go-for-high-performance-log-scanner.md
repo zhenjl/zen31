@@ -2,6 +2,7 @@
 Categories = ["code", "golang", "sequence"]
 date = "2015-02-13T01:03:08-08:00"
 title = "Sequence: Optimizing Go For the High Performance Log Scanner"
+series = "sequence"
 +++
 
 [![GoDoc](http://godoc.org/github.com/strace/sequence?status.svg)](http://godoc.org/github.com/strace/sequence)
@@ -14,7 +15,7 @@ This is part 3 of the [sequence](http://strace.io/sequence) series.
 
 * [Part 1](http://zhen.org/blog/sequence-high-performance-sequential-semantic-log--parser/) is about the high performance parser that can parse 100,000-200,000 MPs.
 * [Part 2](http://zhen.org/blog/sequence-automated-analyzer-for-reducing-100k-messages-to-10s-of-patterns/) is about automating the process of reducing 100 of 1000's of log messages down to dozens of unique patterns.
-* [Part3](http://zhen.org/blog/sequence-optimizing-go-for-high-performance-log-scanner/) is about optimizing Go to achieve very high performance (200,000 - 500,000 MPS depending on message size and core count) for scanning and tokenizing log messages
+* [Part 3](http://zhen.org/blog/sequence-optimizing-go-for-high-performance-log-scanner/) is about optimizing Go to achieve very high performance (200,000 - 500,000 MPS depending on message size and core count) for scanning and tokenizing log messages
 
 I would love to learn more about the state-of-the-art approaches that log vendors are using. These attempts are about scratching my own itch and trying to realize ideas I've had in my mind. Given some of these ideas are 5 to 10 years old, they may already be outdated. Personally I just haven't heard of any groundbreaking approaches. 
 

@@ -2,6 +2,7 @@
 Categories = [ "log", "golang", "code", "sequence" ]
 date = "2015-02-01T10:40:20-08:00"
 title = "Sequence: A High Performance Sequential Semantic Log Parser at 175,000 MPS"
+series = "sequence"
 +++
 
 [![GoDoc](http://godoc.org/github.com/strace/sequence?status.svg)](http://godoc.org/github.com/strace/sequence) 
@@ -14,7 +15,7 @@ This is part 1 of the `sequence` series.
 
 * [Part 1](http://zhen.org/blog/sequence-high-performance-sequential-semantic-log--parser/) is about the high performance parser that can parse 100,000-200,000 MPs.
 * [Part 2](http://zhen.org/blog/sequence-automated-analyzer-for-reducing-100k-messages-to-10s-of-patterns/) is about automating the process of reducing 100 of 1000's of log messages down to dozens of unique patterns.
-* [Part3](http://zhen.org/blog/sequence-optimizing-go-for-high-performance-log-scanner/) is about optimizing Go to achieve very high performance (200,000 - 500,000 MPS depending on message size) for scanning and tokenizing log messages
+* [Part 3](http://zhen.org/blog/sequence-optimizing-go-for-high-performance-log-scanner/) is about optimizing Go to achieve very high performance (200,000 - 500,000 MPS depending on message size) for scanning and tokenizing log messages
 
 ---
 
