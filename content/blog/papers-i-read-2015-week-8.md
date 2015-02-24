@@ -14,6 +14,8 @@ I didn't make much progress this week on either [sequence](https://github.com/st
 
 I also did manage to finish up the [experimental json scanner](https://github.com/strace/sequence/commit/713979f70d6025308e434205973249aa3138e58e) that I've been working on for the past couple of weeks. I will write more about it in the next [sequence](http://strace.io/sequence) article.
 
+Actually I am starting to feel a bit overwhelmed by having both projects. Both of them are very interesting and I can see both move forward in very positive ways. Lots of ideas in my head but not enough time to do them. Now that I am getting feature requests, issues and pull requests, I feel even worse because I haven't spent enough time on them. &lt;sigh&gt;
+
 ### Papers I Read
 
 * [Memory-Efficient GroupBy-Aggregate using Compressed Buffer Trees](http://www.pdl.cmu.edu/PDL-FTP/HECStorage/git-cercs-12-08.pdf)
