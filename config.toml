@@ -20,15 +20,15 @@ copyright = "Jian Zhen. All Rights Reserved."
 
 [[menu.projects]]
 	name = "sequence"
-	weight = -200
-	url = "https://github.com/strace/sequence"
+	weight = 10
+	url = "http://sequence.trustpath.com"
 
 [[menu.projects]]
 	name = "surgemq"
-	weight = -200
+	weight = 20
 	url = "https://github.com/surgemq/surgemq"
 
 [[menu.projects]]
-	name = "zhenjl/others"
-	weight = -200
+	name = "others"
+	weight = 30
 	url = "https://github.com/surge"
