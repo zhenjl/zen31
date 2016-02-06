@@ -17,6 +17,7 @@ Some interesting findings:
 * There's no mention of _docker_ in any of the years, and only 5 mentions of container in 2016. This is a bit of a surprise given the noise docker/container is making. This is likely due to most customers care more about management for new technologies than security.
 * The word _firewall_ dropped 151 spots in 2016. I want to speculate that it is due to the dissolving of perimeters, but I can't be sure of that.
 * As much as noise as _blockchain_ is making, there's no mention of the word.
+* The word _behavior_ (as in behavioral analysis) has also gained drastically over the past few years, going from #370 in 2012 to #78 in 2016.
 * See other findings below.
 
 ### Top Words
@@ -80,6 +81,11 @@ The word _phishing_ made drastic gains since 2014, jumping from #807 to #193 in 
 
 <img src="/images/rsaconf/2016/cyber-malware.png">
 
+### It's all about Behavior!
+
+The word _behavior_ (as in behavioral analysis) has also gained drastically over the past few years, going from #370 in 2012 to #78 in 2016.
+
+<img src="/images/rsaconf/2016/behavior.png">
 
 ### Credits
 
