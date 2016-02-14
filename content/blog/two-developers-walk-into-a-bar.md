@@ -174,7 +174,9 @@ Modern App Developer:
 
 Old-Timer System Developer:
 
-> I can perform a simple AND operation on the 3 monthly bit arrays, and then count the number of "1" bits.
+> I can perform a simple OR operation on the 3 monthly bit arrays, and then count the number of "1" bits.
+
+_Note: I fixed the original AND to OR based on a [comment from HN](https://news.ycombinator.com/item?id=11100213). Not sure what I was thinking when I typed AND...duh!
 
 
 ### How Many Hosts Changed State This Month (was "up" but now "down", or was "down" but now "up")
