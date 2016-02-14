@@ -90,7 +90,7 @@ Old-Timer System Developer:
 >
 > For all 4B IPs, I will need approximately 32GB of space to store the port states. Together, it will take me about 33GB of space to store all host and port states. 
 >
->I can probably use [EWAH bitmap compression](http://localhost:1313/blog/bitmap-compression-using-ewah-in-go/)
+>I can probably use [EWAH bitmap compression](/blog/bitmap-compression-using-ewah-in-go/)
  to gain some space efficiency, but let's assume we are not compressing for now. Also if I do EWAH bitmap compression, I may lose out on the ability to do population counting (see below). 
 
 ### Count the Number of "Up" Hosts
