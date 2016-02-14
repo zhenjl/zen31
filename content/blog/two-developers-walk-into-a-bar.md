@@ -195,7 +195,7 @@ Modern App Developer:
 
 Old-Timer System Developer:
 
-> I can perform this opeartion: `(this_month XOR last_month) XOR last_month`. This will return a bit array that has the bit set if the host was "up" last month but now it's "down". Then count the number of "1" bits of the resulting bit array.
+> I can perform this opeartion: `(this_month XOR last_month) AND last_month`. This will return a bit array that has the bit set if the host was "up" last month but now it's "down". Then count the number of "1" bits of the resulting bit array.
 
 ### How Many Hosts Were "Down" Last Month But Now It's "Up"
 
@@ -205,4 +205,4 @@ Modern App Developer:
 
 Old-Timer System Developer:
 
-> I can perform this opeartion: `(this_month XOR last_month) XOR this_month`. This will return a bit array that has the bit set if the host was "down" last month but now it's "up". Then count the number of "1" bits of the resulting bit array.
+> I can perform this opeartion: `(this_month XOR last_month) AND this_month`. This will return a bit array that has the bit set if the host was "down" last month but now it's "up". Then count the number of "1" bits of the resulting bit array.
