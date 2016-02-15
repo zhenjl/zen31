@@ -4,7 +4,7 @@ date = "2016-02-14T10:57:56-08:00"
 title = "A Modern App Developer and An Old-Timer System Developer Walk Into a Bar"
 +++
 
-[Hacker News Discussion](https://news.ycombinator.com/item?id=11099925), please feel free to upvote!
+Note: Thanks for all the great comments and feedback here and on [Hacker News](https://news.ycombinator.com/item?id=11099925). Please keep them coming. I learned a ton and I am sure others will also.
 
 <i class="fa fa-heart"></i> <i class="fa fa-heart"></i> Happy Valentine's Day! <i class="fa fa-heart"></i> <i class="fa fa-heart"></i>
 
