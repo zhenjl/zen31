@@ -21,7 +21,7 @@ copyright = "Jian Zhen. All Rights Reserved."
 [[menu.projects]]
 	name = "sequence"
 	weight = 10
-	url = "http://sequence.trustpath.com"
+	url = "http://sequencer.io"
 
 [[menu.projects]]
 	name = "surgemq"
@@ -31,4 +31,4 @@ copyright = "Jian Zhen. All Rights Reserved."
 [[menu.projects]]
 	name = "others"
 	weight = 30
-	url = "https://github.com/surge"
+	url = "https://github.com/zhenjl"
