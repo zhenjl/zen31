@@ -5,11 +5,11 @@ title = "Sequence: A High Performance Sequential Semantic Log Parser at 175,000 
 series = "sequence"
 +++
 
-Information here maybe outdated. Please visit http://sequence.trustpath.com for latest.
+Information here maybe outdated. Please visit http://sequencer.io for latest.
 
 ---
 
-This is part 1 of the [sequence](http://sequence.trustpath.com) series. 
+This is part 1 of the [sequence](http://sequencer.io) series. 
 
 * [Part 1](http://zhen.org/blog/sequence-high-performance-sequential-semantic-log--parser/) is about the high performance parser that can parse 100,000-200,000 MPs.
 * [Part 2](http://zhen.org/blog/sequence-automated-analyzer-for-reducing-100k-messages-to-10s-of-patterns/) is about automating the process of reducing 100 of 1000's of log messages down to dozens of unique patterns.
