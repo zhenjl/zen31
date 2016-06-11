@@ -1,7 +1,7 @@
 +++
 categories = [ "code" ]
 date = "2016-02-14T10:57:56-08:00"
-title = "A Modern App Developer and An Old-Timer System Developer Walk Into a Bar"
+title = "A Modern App Developer and An Old School System Developer Walk Into a Bar"
 +++
 
 Note: Thanks for all the great comments and feedback here and on [Hacker News](https://news.ycombinator.com/item?id=11099925). Please keep them coming. I learned a ton and I am sure others will also.
@@ -9,7 +9,7 @@ Note: Thanks for all the great comments and feedback here and on [Hacker News](h
 <i class="fa fa-heart"></i> <i class="fa fa-heart"></i> Happy Valentine's Day! <i class="fa fa-heart"></i> <i class="fa fa-heart"></i>
 
 
-A modern app developer and an old-timer system developer walk into a bar. They had a couple drinks and started talking about the current state of security on the Internet. In a flash of genius, they both decided it would be useful to map the Internet and see what IPs have vulnerable ports open. After some discussion, they decided on the following
+A modern app developer and an old school system developer walk into a bar. They had a couple drinks and started talking about the current state of security on the Internet. In a flash of genius, they both decided it would be useful to map the Internet and see what IPs have vulnerable ports open. After some discussion, they decided on the following
 
 * They will port scan all of the IPv4 address (2^32=4,294,967,296) on a monthly basis
 * They will focus on a total of 20 ports including some well-known ports such as FTP (20, 21), telnet (23), ssh (22), SMTP (25), etc
@@ -28,7 +28,7 @@ A modern app developer and an old-timer system developer walk into a bar. They h
   * How Many Hosts Were "Down" Last Month But Now It's "Up"
   * How Many Hosts Were "Up" Last Month But Now It's "Down"
 
-## Modern App Developer vs Old-Timer Developer
+## Modern App Developer vs Old School Developer
 
 Let's assume 300 million IPs are up, and has an average of 3 ports open.
 
@@ -46,7 +46,7 @@ Modern App Developer:
 > I will use Python. It's quick to get started and easy to understaind/maintain.
 
 
-Old-Timer Developer: 
+Old School Developer: 
 
 > I will use Go. It's fast, performant, and easy to understand/maintain!
 
@@ -76,7 +76,7 @@ Modern App Developer:
 >
 > For 300 million IPs, it will take me about 112GB of space to store all host and port states. 
 
-Old-Timer System Developer: 
+Old School System Developer: 
 
 > I will use one bit array (memory mapped file) to store the host state, with 1 bit per host. If the bit is 1, then the host up; if it's 0, then the host is down.
 >
@@ -109,7 +109,7 @@ Modern App Developer:
 >
 > I do realize there's additional storage required for the ES index. Let's assume it's 1/8 of the original document sizes. This means there's possibly another 14GB of index data, bringing the total to 126GB.
 
-Old-Timer System Developer:
+Old School System Developer:
 
 > This is a [bit counting](https://github.com/zhenjl/bitmap/blob/master/ewah/bitcounter.go#L69), or _popcount()_, problem. It's just simple math. I can iterate through the array of uint64's (~8.4M uint64's), count the bits for each, and add them up!
 >
@@ -123,7 +123,7 @@ Modern App Developer:
 >
 > I will have ElasticSearch index the "ip" field, in addition to the "state" field from earlier. Then for any IP, I can search for the document where "ip" equals the requested IP. From that document, I can then find the value of the "state".
 
-Old-Timer System Developer:
+Old School System Developer:
 
 > This should be easy. I just need to index into the bit array using the integer value of the IPv4, and find out if the bit value is 1 or 0.
 
@@ -137,7 +137,7 @@ Modern App Developer:
 >
 > This is a map reduce job that I can write to process the 300 million JSON documents and return all the host IPs that are "up" in that /24 subnet.
 
-Old-Timer System Developer:
+Old School System Developer:
 
 > This is just another bit iteration problem. I will use the first IP address of the subnet to determine where in the bit array I should start. Then I calculate the number of IPs in that subnet. From there, I just iterate through the bit array and for every bit that's 1, I convert the index of that bit into an IPv4 address and add to the list of "Up" hosts.
 
@@ -160,7 +160,7 @@ Modern App Developer:
 >
 > This can probably also be done with ElasticSearch. It would require the port state to be index, which will increase the index size. I can then count the results for the search for ports 22 = "open", and repeat for each port.
 
-Old-Timer System Developer:
+Old School System Developer:
 
 > This is a simple counting problem. I will walk through the host state bit array, and for every host that's up, I will use the bit index to index into the port state uint64 array and get the uint64 that represents all the port states for that host. I will then walk through each of the 3-bit bundles for the ports, and add up the counts if the port is "open".
 >
@@ -172,7 +172,7 @@ Modern App Developer:
 
 > I can retrieve the "Up" host list for each month, and then go through all 3 lists and dedup into a single list. This would require quite a bit of processing and iteration.
 
-Old-Timer System Developer:
+Old School System Developer:
 
 > I can perform a simple OR operation on the 3 monthly bit arrays, and then count the number of "1" bits.
 
@@ -185,7 +185,7 @@ Modern App Developer:
 
 > Hm...I am not sure how to do that easily. I guess I can just iterate through last month's hosts, and for each host check to see if it changed state this month. Then for each host that I haven't checked this month, iterate and check that list against last month's result. 
 
-Old-Timer System Developer:
+Old School System Developer:
 
 > I can perform a simple XOR operation on the bit arrays from this and last month. Then count the number of "1" bits of the resulting bit array.
 
@@ -195,7 +195,7 @@ Modern App Developer:
 
 > I can retrieve the "Up" hosts from last month from ES, then for each "Up" host, search for it with the state equals to "Down" this month, and accumulate the results.
 
-Old-Timer System Developer:
+Old School System Developer:
 
 > I can perform this opeartion: `(this_month XOR last_month) AND last_month`. This will return a bit array that has the bit set if the host was "up" last month but now it's "down". Then count the number of "1" bits of the resulting bit array.
 
@@ -205,6 +205,6 @@ Modern App Developer:
 
 > I can retrieve the "Down" hosts from last month from ES, then for each "Down" host, search for it with the state equals to "Up" this month, and accumulate the results.
 
-Old-Timer System Developer:
+Old School System Developer:
 
 > I can perform this opeartion: `(this_month XOR last_month) XOR this_month`. This will return a bit array that has the bit set if the host was "down" last month but now it's "up". Then count the number of "1" bits of the resulting bit array.
