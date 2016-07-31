@@ -55,7 +55,15 @@ Google Maps worked out beautifully as well. In most cases, I set the navigation 
 
 So thanks to Google for these wonderful services.
 
-### Other Electronic Stuff
+### Pass Time for the Long Drives
+
+We were in the car quite a bit as we drove 3338 kilometers. With two young kids (10 and 8), we have learned from experience that the best way to keep them from fighting with each other, or  asking "are we there yet?" every 5 minutes is to let them listen to lots of audio books. We loaded a 3rd iPhone (no SIM, so basically iPod) with a bunch of audio books like Harry Potter and others, and the whole time we were driving they were listening to these. Certainly helped keep us sane.
+
+Amazon Prime Music also proved to be very useful as well. I downloaded a bunch of prime music onto my phone before the trip, and listened to them during part of our trip. Though in most cases we were enjoying the view on the road and forgot to turn on the music.
+
+Assuming data coverage is available, TurnIn radio also proved to be useful for catching up on US news. We didn't mind using up a bit of data to keep up with the news.
+
+### Other Electronic/App Stuff
 
 Here are some other electronic stuff you might want to consider bringing. 
 
@@ -64,16 +72,14 @@ Here are some other electronic stuff you might want to consider bringing.
 * [USB Charger RAVPower 50W 10A 6-Port USB Charger or similar](https://www.amazon.com/gp/product/B00OQ19QYA)
   * Well worth bringing this. We had 3 iPhones (1 technically is an iPod), an action camera battery charger, and a couple other electronic items that all needed charging. 
   * This charger can do all of them at the same time and we didn't have to go hunt for a bunch of outlets and use a bunch of plug adapters. 
+* Apps
+  * As desribed above -- Google Maps, Google Hangouts, Amazon Prime Music, TuneIn
+  * [Google Translate](https://itunes.apple.com/us/app/google-translate/id414706506?mt=8) is a great app for translating labels on food packaging. We used it quite a bit since A1 is allergic to nuts.
+  * [Reykjavik Map and Walks](https://itunes.apple.com/us/app/reykjavik-map-and-walks/id369667712?mt=8) is a great little app that gives you most of the attractions you should visit in Reykjavik. I used the free version with a combination of Google Maps to walk around the city.
+  * [TripAdvisor Hotels Flights Restaurants](https://itunes.apple.com/us/app/tripadvisor-hotels-flights/id284876795?mt=8) for reading reviews and recommendations.
+  * [Commander Compass Lite](https://itunes.apple.com/us/app/commander-compass-lite/id340268949?mt=8) to get GPS location and many other interesting location tidbits. Technically you can use the Apple Compass app to get GPS location but this one provides more info.
 
 For the first time in my life I didn't bring a computer with me for a trip. It's by far the longest period of time that I don't have a computer since laptops become portable enough to carry. It was fine at the end. I just had to make sure that we [mass delete a bunch of photos from both of our iPhones](http://lifehacker.com/use-image-capture-to-quickly-clear-out-your-iphones-cam-1630524834) before the trip to ensure there's enough space for videos and photos.  
-
-### Pass Time for the Long Drives
-
-We were in the car quite a bit as we drove 3338 kilometers. With two young kids (10 and 8), we have learned from experience that the best way to keep them from fighting with each other, or  asking "are we there yet?" every 5 minutes is to let them listen to lots of audio books. We loaded a 3rd iPhone (no SIM, so basically iPod) with a bunch of audio books like Harry Potter and others, and the whole time we were driving they were listening to these. Certainly helped keep us sane.
-
-Amazon Prime Music also proved to be very useful as well. I downloaded a bunch of prime music onto my phone before the trip, and listened to them during part of our trip. Though in most cases we were enjoying the view on the road and forgot to turn on the music.
-
-Assuming data coverage is available, TurnIn radio also proved to be useful for catching up on US news. We didn't mind using up a bit of data to keep up with the news.
 
 ### Clothes, Shoes
 
