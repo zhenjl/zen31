@@ -4,7 +4,9 @@ date = "2016-07-29T21:07:12+00:00"
 title = "12 Days in Iceland, the Land of Ice, Water, and Fire"
 +++
 
-First thing first, 12 days is not nearly enough to visit this beautiful country. We probably visited less than half of the places we wanted to visit. If you truly want to enjoy Iceland and get the maximum out of a single trip, plan for a at least a full two weeks. And then plan to go back for another two weeks at some other point to see the rest.
+First thing first, 12 days is not nearly enough to visit this beautiful country. We probably visited less than half of the places we wanted to visit. If you truly want to enjoy Iceland and get the maximum out of a single trip, plan for a at least a full two weeks. And then plan to go back for another two weeks at some other point to see the rest. 
+
+_B Notes: If you have only a week, stick to an area rather than spending time driving on the entire Ring Road. If I had one week, I would spend it in the Westfjords._
 
 After spending 12 days and driving 3338 kilometers (2074 miles) in Iceland, we (L or me, B or wife, A1 Jianson - ~10, A2 Jiandóttir - ~8) all agreed that it's definitely worth the trip.
 
@@ -14,13 +16,15 @@ After spending 12 days and driving 3338 kilometers (2074 miles) in Iceland, we (
 
 ### Planning for the Trip
 
-Truth be told, we were procrastinators when it came to preparing for the trip. Aside from booking our tickets on WOW Air 2+ months before the trip, we waited until the weekend before the trip to actually plan for it. We basically planned our itinerary in a single day, after reading a bunch of blogs and articles online. A1 and A2 also helped by watching a bunch of Youtube videos (and learning a few words along the way).
+Truth be told, we were procrastinators when it came to preparing for the trip. Aside from booking our tickets on WOW Air 2+ months before the trip, we waited until the weekend before the trip to actually plan for it. We basically planned our itinerary in a single day, after reading a bunch of blogs and articles online. A1 and A2 also helped by watching a bunch of Youtube videos (and learning a few words along the way). 
+
+_B Notes: And don't be shy to ask once you are there where you should go/buy/eat/see...the locals/fellow travellers can provide valuable tips that will help your journey._
 
 I found [guidetoiceland.is](http://guidetoiceland.is) to be the most helpful. In fact, we found most of the places we want to visit by reading their suggestions. Check out their articles on:
 
 * [Best Attractions by the Ring Road of Iceland](https://guidetoiceland.is/best-of-iceland/best-attractions-by-the-ring-road-of-iceland)
 * [The 5 Best Hot Springs in Iceland](https://guidetoiceland.is/best-of-iceland/the-5-best-hot-springs-in-iceland)
-  * Though we don't recommend skipping the Blue Lagoon (yes, contrary to popular belief) as the locals told us that the Blue Lagoon is man made and it supposedly doesn't drain!! With thousands of people visiting each day, imagine the state of the water at the end of each day. And imagine people actually putting that white stuff on their face!! 
+  * Though we recommend skipping the Blue Lagoon (yes, contrary to popular belief) as the locals told us that the Blue Lagoon is man made and it supposedly doesn't drain!! With thousands of people visiting each day, imagine the state of the water at the end of each day. And imagine people actually putting that white stuff on their face!! 
   * We didn't fact check this so take this with a grain of salt.
 * [The Ultimate Guide to Driving in Iceland](https://guidetoiceland.is/travel-info/driving-in-iceland)
 * [14 Day Self Drive Tour | Circle of Iceland & The Westfjords](https://guidetoiceland.is/book-holiday-trips/around-the-country-in-14-days-self-drive-tour)
@@ -57,7 +61,9 @@ So thanks to Google for these wonderful services.
 
 ### Pass Time for the Long Drives
 
-We were in the car quite a bit as we drove 3338 kilometers. With two young kids (10 and 8), we have learned from experience that the best way to keep them from fighting with each other, or  asking "are we there yet?" every 5 minutes is to let them listen to lots of audio books. We loaded a 3rd iPhone (no SIM, so basically iPod) with a bunch of audio books like Harry Potter and others, and the whole time we were driving they were listening to these. Certainly helped keep us sane.
+We were in the car quite a bit as we drove 3338 kilometers. With two young kids (10 and 8), we have learned from experience that the best way to keep them from fighting with each other, or  asking "are we there yet?" every 5 minutes is to let them listen to lots of audio books. We loaded a 3rd iPhone (no SIM, so basically iPod) with a bunch of audio books like Harry Potter, Judy Blume and others, and the whole time we were driving they were listening to these. Certainly helped keep us sane. 
+
+_B Notes: All and all, I am grateful for that our fellow travellers in the back seats were cooperatives and came with us on this incredible adventure. Never underestimate the value of books on tape, crackers and chocolates! :-)_
 
 Amazon Prime Music also proved to be very useful as well. I downloaded a bunch of prime music onto my phone before the trip, and listened to them during part of our trip. Though in most cases we were enjoying the view on the road and forgot to turn on the music.
 
@@ -83,7 +89,7 @@ For the first time in my life I didn't bring a computer with me for a trip. It's
 
 ### Clothes, Shoes
 
-Dress in layers is the best advice we have read, and it's absolutely true. Even in July, the weather can be somewhat unpredictable. We started with a few days with really nice weather, then as we moved to the northwest (Westfjords) and the north, the weather became cooler, windier and overcast.
+Dress in layers is the best advice we have read, and it's absolutely true. Even in July, the weather can be somewhat unpredictable. We started with a few days with really nice weather, then as we moved to the northwest (Westfjords) and the north, the weather became cooler, windier and overcast. 
 
 Our typical layers include a short sleeve, a long sleeve, and a warm jacket. Since we were going to visit the glaciers and waterfalls, we also brought rain jackets (or waterproof outer jacket) and gloves. The rain jackets proved to be extremely useful!
 
@@ -91,13 +97,15 @@ We have read that waterproof pants would be needed, but that didn't turn out to 
 
 We also brought good waterproof hiking shoes (like [these](https://www.rei.com/product/836529/merrell-moab-waterproof-hiking-shoes-mens), or [these](http://www.llbean.com/llb/shop/86201) for kids), which turned out to be a MUST for this trip. With the rugged terrain for many of the places we visited, shoes with good traction will make it much easier. We saw some tourists with fairly flat footwear, or sometimes even with heels. Honestly I have no idea how they survived some of the more rugged areas. 
 
-The waterproof shoes also proved to be extremely useful when going INTO the glacier. Given it's July, the top layer of snow is melting and the water goes through the ice and drips into the glacier tunnel we visited, so sometimes there's a layer of water 1/4 - 1/2 inch deep that we need to walk through.
+The waterproof shoes also proved to be extremely useful when going INTO the glacier. Given it's July, the top layer of snow is melting and the water goes through the ice and drips into the glacier tunnel we visited, so sometimes there's a layer of water 1/4 - 1/2 inch deep that we need to walk through. 
+
+_B Notes: We also each brought a pair of sandals/flip flops. Most Airbnb/Guest House have a mud room which you will need to take of your shoes. It also help with all the swimming pools we visited. Lastly, if you accidentally fell in the river, you would have have something to wear while you try to dry your hiking boots and socks on the dashboard._ :-)
 
 ### Car Rental
 
 To start, we looked into the option of renting a 4-person campervan. It seemed like a great (and probably more economical) option to travel in Iceland as you can set your own schedule. Unfortunately we didn't realize this was an option until too late (note we procrastinated until the very last minute to plan). Also, most campervans seem to be manual and neither myself or B know how to drive that. So that option is out regardless. If we go back, I would definitely look at this option again.
 
-Given it's July (no snow!) and we weren't planning on going on any F roads (and off-roading is illegal), we decided to rent a small 2WD. We rented a cool little blue Honda Jazz via [Guide to Iceland](http://guidetoiceland.is). Guide to Iceland is actually a broker, and the final car rental company is [IceRentalCards](http://www.icerentalcars.is). 
+Given it's July (no snow!) and we weren't planning on going on any F roads (and off-roading is illegal), we decided to rent a small 2WD. We rented a cool little blue Honda Jazz via [Guide to Iceland](http://guidetoiceland.is). Guide to Iceland is actually a broker, and the final car rental company is [IceRentalCars](http://www.icerentalcars.is). 
 
 After reading through multiple forum posts on Trip Advisor, we learned that most car rentals include basic insurance service called Collision Damage Waiver (CDW). This is automatically included and cannot be taken off (in most cases). Because of this inclusion, you cannot use your credit card rental insurance to cover the car as most credit card companies require that you waive ALL insurance provided by the rental company.
 
@@ -149,13 +157,15 @@ Gas is EXPENSIVE. It was about $6.4/gallon when we were there. At 32 avg MPG, dr
 
 Most of the gas stations you will see on the road are N1 gas stations. If you don't have a credit card with PIN, I would recommend getting prepaid N1 cards that you can use at N1 gas stations. You can get these cards at any manned N1 gas station. There's also OB and Olis gas stations but they are typically closer to towns. Our car rental company gave us a card that we can use to get 10% discount at any OB and Olis gas stations, so we used them as often as we can find them.
 
-Last but not least, watch out for those tourists! They like to stop, sometimes in the middle of the road, to take pictures!
+Last but not least, watch out for those tourists! They like to stop, sometimes in the middle of the road, to take pictures! 
+
+_B Notes: By proxy, each stretch of our drives couldn't be longer than two hours because of the A1's and A2's liquid intake. Like one of the Iceland blog I read, you may find yourself in need of the loo but it may be 150 km away. Most of the time, you won't find a good spot to be unseen for your business. That said, all the gas stations we stopped had clean restrooms. You can also refill your water bottles, buy a hot dogs or two and pay more for less junk food. Another thing you need to pay close attention to are cylists who are sharing the narrow road with you. My jaw dropped a few times when I saw a cylist trying to ride through an area which are FAR from the next town. What took us 20 minutes from one town to another could be HOURS. Another impressive sight was when we saw a couple pulling a small trailer with an infant on our way to Dynjandi. We were at high altitude!!!. Other than the trailer, I also noticed the bright green Ikea children porter potty strapped to the very back of the pack on the bike._
 
 ### Lodging and Accomodations
 
 As we mentioned before, procrastinating probably cost us a good USD$200-300 more. So lessons learned here is to book lodging early. Also, you will have a lot more options.
 
-Of the 11 nights we were there, 6 were through Airbnb and 5 were in guest houses we emailed directly. For guest houses, you should be able to book them diretly from bookings.com if you do it early. However, with us doing last minute booking, we had to email every guest house we can find on the websites. Took us a while but we were finally able to find lodging for the entire trip. 
+Of the 11 nights we were there, 6 were through Airbnb and 5 were in guest houses we emailed directly. For guest houses, you should be able to book them directly from bookings.com if you do it early. However, with us doing last minute booking, we had to email every guest house we can find on the websites. Took us a while but we were finally able to find lodging for the entire trip. 
 
 So if you start your planning early, use Airbnb and Bookings.com. If you are procrastinators like us, I would recommend starting at visiticeland.com. From there, click through each of the regions you are visiting such as East, West, Westfjords, South, North, etc, and from there, you will click through to the regional sites such as south.is, east.is, northiceland.is. And from there, you will find the link for "where to stay" that will list all the guest houses or hotels in the areas. Almost of them will have emails or phone numbers you can use to contact them directly.
 
@@ -163,7 +173,11 @@ Altogether, we spent 2 nights in Reykjavik (Airbnb), 3 nights in Bjarkarholt (We
 
 Two of the areas we stayed, Bjarkarholt in Westfjords and Ólafsfjörður in the North, we would have preferred to stay closer to the attractions, but beggers can't be choosers so we settled.
 
-For the sharp-eyed readers, you will also notice that we skipped the West Iceland areas such as Snæfellsnes. We originally booked a night in Grundarfjörður via Airbnb, but due to some schedule change (adding the Into the Glacier tour), we had to skip the area. It is one of the regrets we have for this entire trip. If we had a couple more days (full 2 weeks), we would have spent the time there.
+For the sharp-eyed readers, you will also notice that we skipped the West Iceland areas such as Snæfellsnes. We originally booked a night in Grundarfjörður via Airbnb, but due to some schedule change (adding the Into the Glacier tour), we had to skip the area. It is one of the regrets we have for this entire trip. If we had a couple more days (full 2 weeks), we would have spent the time there. 
+
+Oh one thing to note is that not all guest houses or Airbnb places provide shampoo or soap. So I would recommend you have a small bottle just in case.
+
+_B Notes: In one of the guest houses we stayed, the owner told us that we could have the European contiential breakfast because "everyone who stays can come eat here". When we checked out, he charged each of us 10 Euro for breakfast. I wish he would have been more upfront about the cost and I wish I asked before we ate my 5 Euro two pieces of jelly toasts! We could use the 80 Euro towards our food budget._
 
 ### Cash and Credit Cards
 
@@ -173,7 +187,9 @@ I highly recommend getting a credit card with no foreign transaction fees. Other
 
 If you plan to get a new card, I highly recommend getting one at least 3 months before your trip, so you can build up the credit and get the bank to increase the credit limit. Otherwise you are stuck at a couple of thousands of dollars in spending credit.
 
-I also highly recommend getting a PIN for your card. While most manned loations will have paper copies that you can sign, some of the unmanned gas stations will only accept credit card with PINs.
+I also highly recommend getting a PIN for your card. While most manned loations will have paper copies that you can sign, some of the unmanned gas stations will only accept credit card with PINs. 
+
+_B Notes: If you don't plan to use plastic like we do for your trip, some coins will come in handy for restrooms and some hot pools (some hot springs require payment)._
 
 ### Food and Shopping for Food
 
@@ -202,8 +218,9 @@ Perhaps we are spoiled from the fresh fruits in our area, I was disappointed at 
 * Lamb loins (expensive but worth the money; I made a lamb, potato and leek stew that turned out well)
 * Bacon
 * Ham
+* Hotdogs at gas stations (Sidenote of the hotdogs: each region put their sauce differently. Some put ketchup, mustard and mayo on the bun first before the hot dog. Also, their ketchup is a dark brown sauce rather than the bright red one in the US. You can add fresh onions or deep fried ones. The deep fried ones added a special crunch and flavor to the hotdog! Yumm!)
 
-Note from L: If time works out, I would recommend stocking up at the [Bónus Discount Store](https://www.google.ca/maps/place/Bónus+Supermarket/@63.9727773,-22.545712,17z/data=!4m8!1m2!3m1!2sBónus+Supermarket!3m4!1s0x0:0x4a5c37fef0a87eb9!8m2!3d63.9726439!4d-22.5435289) after getting your rental car.
+_L Notes: If time works out, I would recommend stocking up at the [Bónus Discount Store](https://www.google.ca/maps/place/Bónus+Supermarket/@63.9727773,-22.545712,17z/data=!4m8!1m2!3m1!2sBónus+Supermarket!3m4!1s0x0:0x4a5c37fef0a87eb9!8m2!3d63.9726439!4d-22.5435289) after getting your rental car._
 
 ### Swimming Pools
 
@@ -229,27 +246,37 @@ We drove ~45 minutes to Reykjavik and found our Airbnb apartment, which wasn't r
 
 <img src="/images/iceland2016/zipline.jpg" width="800">
 
-We then visited the magnificent Hallgrimskirkja church, which is considered the most beautiful church in Reykjavik. Going to the top (about 400 or 500 ISK per person) gives you a awesome view of Reykjavik in all directions.
+We then visited the magnificent Hallgrimskirkja church, which is considered the most beautiful church in Reykjavik. Going to the top (about 400 or 500 ISK per person) gives you a awesome view of Reykjavik in all directions. 
+
+_B Notes: In my humble opinion, the view on top was not impressive. I didn't think it was worth the cost or hike. Inside the church, however, was wonderfully calm. When were there, an organist was playing the organ. I could spend more time there listening and taking in the impressive interior._ 
 
 <img src="/images/iceland2016/hallgrimskirkja.jpg" width="800">
 
-While we were there, we also stopped by Reykjavik Roasters for a quick cup of java and some pastry. In general we found the food to be pretty expensive there.
+While we were there, we also stopped by Reykjavik Roasters for a quick cup of java and some pastry. In general we found the food to be pretty expensive there. 
+
+_B Notes: The pastries at Reykjavik Roasters were delicious. We had crossiants and scone. The jam and butter were wonderfully fresh._ 
 
 <img src="/images/iceland2016/roaster.jpg" width="800">
 
-From Hallgrimskirkja, we walked to the Kolaportið flea market. Unfortunately it was not the best use of our time. Unless you are really into old stuff from flea markets, I would recommend avoiding this.
+From Hallgrimskirkja, we walked to the Kolaportið flea market. Unfortunately it was not the best use of our time. Unless you are really into old stuff from flea markets, I would recommend avoiding this. 
 
-However, during our walk to the flea market we were able to see the city a bit and reminds me of  Copenhagen. One thing we did notice is that there's a log of graffitis around.
+_B Notes: Kolaportið flea market would have been a Goodwill not a flea market. I was hoping to see Icelandic antiques but what I saw were old crocs and new cheap plastic things from China._ :-/
+
+However, during our walk to the flea market we were able to see the city a bit and reminds me of  Copenhagen. One thing we did notice is that there's a lot of graffitis around. 
+
+_B Notes: The graffitis added more colour and textures to the city. I wish I wasn't as jet legged in order to enjoy them more._
 
 <img src="/images/iceland2016/graffiti.jpg" width="800">
 
-After checking into the apartment and taking a nap, the kids wanted to go to a swimming pool. They have been wanting to go ever since they learned that every town has a public swimming pool. The Sundhöll swimming pool which is only a block from our apartment is the oldest swimming pool in the center of Reykjavik. Apparently lots of locals like to come to the pool early in the morning before starting their day. Unfortunately the two closest to us (including Sundhöll) are both closed for rennovation. So we ended up in Vesturbæjarlaug which is about 10 minutes drive away.  
+After checking into the apartment and taking a nap, the kids wanted to go to a swimming pool. They have been wanting to go ever since they learned that every town has a public swimming pool. The Sundhöll swimming pool which is only a block from our apartment is the oldest swimming pool in the center of Reykjavik. Apparently lots of locals like to come to the pool early in the morning before starting their day. Unfortunately the two closest to us (including Sundhöll) are both closed for rennovation. So we ended up in Vesturbæjarlaug which is about 10 minutes drive away. 
+
+_B Notes: Swimming pool and tramperlines seem to big part of Icelandic culture. After you paid at the pool, you can take off your shoes and socks. Icelanders seem to have a protocol of when to take of shoes and put them on in the pool. I can't say I haven't grasped the routine yet. Like A1 and A2 said, you are required to bath without swim suits on. There are diagram in the ladies locker room to show you which area of your body that you need to soap up. I have seen tourist being sent back to the shower if they come out of the locker dry at Myvatn Nature Baths. Of all the pools we have been, each has high chairs for mums to place their little wiggle bugs in while getting clean/dress. They also have little bath tubs which you could fill with water for your little nes to entertain themselves while getting clean/dress. What a thought!! Soaps are provide at all swimming pool. But if you want your fancy bath products, bring your own. Obiviously bring your own towels. One last thing, you are not allowed to bring cameras/mobile phones into the swimming area. So you can check them at the front desk or put them in the locker. Lifeguards are on the pool premise. But they don't patrol the pool like the US. There seems to be a good understanding that parents will keep an eye on their children (as they should) while soaking in the shallow warm pools. I see parents who either take turn in playing with their infants in the shallow pools or sometimes slips a couple of floaties on their toddlers' arms as soon as they get to the pool. Arm floaties are free and abundant at all the pools we have been. Sidenote: Iceland is an incredibly safe coountry. We have enjoyed all the days we speant there. The only mishap we had was at Westman Island. Upon fulfilling their dreams of playing at the "BEST" swimming pool in Iceland, A1 came out of the locker room without his long sleeve shirt, underwear (!!!) and his half of his REI pants (we unzipped the lower part of the pant legs to dry from our earlier beach outting). The pool front desk told us that it was the second incident that day. Once the staffs found out that A1 had no change of clothes, they went into the closet of all the abandoned clothes and gave him a smashing outfit. In the track pants he received, there was 1000 IKS. A1 did the right thing and returned the 1000 to the pool staffs. This is one incident that left all of us slightly puzzled, grossed out and tickeled._
 
 ### Day 2 - Golden Circle (Þingvellir, Strokkur, Gullfoss, Kerið)
 
 The second day of the trip was all about the Golden Circle. If you have just a short time (say 2-3 days) in Iceland, it's definitely spending a day here. There's plenty of tour companies that will take you around if you don't have a car. We pretty much did the standard tour of Þingvellir, Strokkur, Gullfoss, and Kerið.
 
-Þingvellir is our first real taste of the stunny scenery of Iceland. Even the bathroom had a really good view, though you had to pay for that privilege.
+Þingvellir is our first real taste of the stunning scenery of Iceland. Even the bathroom had a really good view, though you had to pay for that privilege.
 
 <img src="/images/iceland2016/thingvellir.jpg" width="800">
 
@@ -271,11 +298,15 @@ The third stop of Golden Circle is Gullfoss waterfall. This is the first waterfa
 
 The final stop for the Golden Circle was Kerið, which is a volcanic crater lake created as the land moved over a localized hotspot (according to Wikipedia). Kerið’s caldera is one of the three most recognizable volcanic craters because at approximately 3,000 years old, it is only half the age of most of the surrounding volcanic features.
 
-A2 the explorer had a ton of fun walking around the lake (twice!). One thing to remember is the walk down to the lake is pretty steep sand surface. A2 had quite a scare as she RAN down hill by mistake and I couldn't reach her fast enough. She was smart enough to grab onto the back of a bench, otherwise she would have been swimming in the lake.
+A2 the explorer had a ton of fun walking around the lake (twice!). One thing to remember is the walk down to the lake is pretty steep sand surface. A2 had quite a scare as she RAN down hill by mistake and I couldn't reach her fast enough. She was smart enough to grab onto the back of a bench, otherwise she would have been swimming in the lake. 
+
+_B Notes: This is another reasons to wear good grip shoes!_
 
 <img src="/images/iceland2016/kerio.jpg" width="800">
 
-As we were driving back from the Golden Circle, we also found a few unexpected places. One of them is an abandoned (and creepy looking) hotel (64.019916,-21.397170) that has a geothermal pool next to it. B and the kids thought that was a great discovery as the only way we saw the pool is after we hiked up a uncharted steep hill.
+As we were driving back from the Golden Circle, we also found a few unexpected places. One of them is an abandoned (and creepy looking) hotel (64.019916,-21.397170) that has a geothermal pool next to it. B and the kids thought that was a great discovery as the only way we saw the pool is after we hiked up a uncharted steep hill. 
+
+_B Notes: Although it was spooky to find an abandon hotel and desserted geothermal pool. I wish we could spend more time to take this special find in. There were no other tourist in sight except us._
 
 <img src="/images/iceland2016/rundown.jpg" width="800">
 
@@ -286,7 +317,7 @@ On day 3, we departed our Reykjavik apartment and ready to head up to Westfjords
 Before Westfjords, we went to our our [Into the Glacier Adventure Tour](https://intotheglacier.is/tour/your-into-the-glacier-adventure-the-classic-tour/). Into the Glacier offers various tours to Iceland‘s most significant new attraction, the man – made ice cave. The ice tunnel and the caves are located high on Europe‘s second largest glacier, [Langjökull](https://intotheglacier.is/about/).
 
 After driving a couple hours to Húsafell, we took the tour bus to the Klaki base camp (~30-40 minutes).
-The road from Húsafell to Klaki is a F road, which means 2WD cars cannot drive there. However, if you had your own 4WD, you can drive to the base camp yourself. And then from there, we took another ~30 minute ride on a glacier truck to get to the entrance of the glacier tunnel (64.627748, -20.486248). The glacier truck apparently is from Germany and was used to transport missles.
+The road from Húsafell to Klaki is a F road, which means 2WD cars cannot drive there. However, if you had your own 4WD, you can drive to the base camp yourself. And then from there, we took another ~30 minute ride on a glacier truck to get to the entrance of the glacier tunnel (64.627748, -20.486248). The glacier UN truck apparently is from Germany and was used to transport missiles.
 
 <img src="/images/iceland2016/glacier_entrance.jpg" width="800">
 
@@ -297,11 +328,14 @@ Here are some interesting facts about the glacier tunnel:
 * The tunnel is 500 meters long and the largest of its kind in the world.
 * We were 40 meters below the surface of the glacier, with 200 meters of solid ice still benneath us.
 * One of the crevasse we walked by is 40 meters deep and a few hundred meters long.
+* Sadly, the overall surface of the Langjökull glacier is receding at 2 meters per year due to global warming.
 
 <img src="/images/iceland2016/intoglacier2.jpg" width="800">
 <img src="/images/iceland2016/intoglacier3.jpg" width="800">
 
-The kids had a lot of fun checking out the tunnels and tasting the glacier water. In fact, they said this is one of the best attractions in Iceland.
+The kids had a lot of fun checking out the tunnels and tasting the glacier water. In fact, they said this is one of the best attractions in Iceland. 
+
+_B Notes: Glacier water is delicious!! The Iceland often claims that we are drinking 1000 year old water! Glacier fuilfills 80% of Iceland's water supplies._
 
 <img src="/images/iceland2016/intoglacier1.jpg" width="800">
 
@@ -325,14 +359,16 @@ We also saw beautiful cloud-covered valleys. And all these were before we even g
 
 <img src="/images/iceland2016/westfjords3.jpg" width="800">
 
-Finally we arrived at Dynjandi waterfall, which is actually a series of waterfalls with a cumulative height of 100 metres (330 ft). It is by far one of the most beautiful waterfalls we saw in Iceland. I think all of us rated it the highest amongst all of the waterfalls we visited.
+Finally we arrived at Dynjandi waterfall, which is actually a series of waterfalls with a cumulative height of 100 metres (330 ft). It is by far one of the most beautiful waterfalls we saw in Iceland. I think all of us rated it the highest amongst all of the waterfalls we visited. 
+
+_B Notes: If you are there early, there may still be fog covering the top of the waterfall. Like A2 said..."it looked like it was pouring out of the sky." A sight to be treasured for a long time to come..._
 
 <img src="/images/iceland2016/dynjandi1.jpg" width="800">
 <img src="/images/iceland2016/dynjandi2.jpg" width="800">
 
 Later in the evening, after my call and some swimming time for the kids, we headed out to Látrabjarg. It is [described as](http://www.westfjords.is/en/other/place/latrabjarg)
 
-> [t]he cliffs of all cliffs, Látrabjarg, are home to birds in unfathomable numbers. This westernmost point of Iceland (and Europe if Greenland and the Azores are not counted) is really a line of several cliffs, 14 kilometres long and up to 441 m high. And it's as steep as it gets, dizzyingly so.
+> The cliffs of all cliffs, Látrabjarg, are home to birds in unfathomable numbers. This westernmost point of Iceland (and Europe if Greenland and the Azores are not counted) is really a line of several cliffs, 14 kilometres long and up to 441 m high. And it's as steep as it gets, dizzyingly so.
 
 <img src="/images/iceland2016/birdcliff.jpg" width="800">
 
@@ -342,7 +378,9 @@ Also, according to [Wikipedia](https://en.wikipedia.org/wiki/Látrabjarg):
 
 <img src="/images/iceland2016/puffins.jpg" width="800">
 
-The drive to Látrabjarg is by far one of the worst. The gravel road going there is full of potholes and sharp rocks. We even saw a big SUV had one of its tires blew out. I don't think I drove more than 40 kmh most of the time. But at the end we think it's well worth it.
+The drive to Látrabjarg is by far one of the worst. The gravel road going there is full of potholes and sharp rocks. We even saw a big SUV had one of its tires blow out. I don't think I drove more than 40 kmh most of the time. But at the end we think it's well worth it. 
+
+_B Notes: If you plan to go see the puffins, please go in the evening. You will likely to catch more (with your camera) because they are home for a much needed rest after a day out at sea for food. This is a spot I could stay long to take more pictures...or in hope to get better pictures._
 
 ### Day 5 - Reykjafjardarlaug Hot Pool, Melanesrif
 
@@ -352,7 +390,9 @@ Melanesrif is another recommendation from the owner. Westfjords is known for its
 
 <img src="/images/iceland2016/melanesrif1.jpg" width="800">
 
-We got there during tide change, and was able to watch the tide come in (actually got chased by the tide a bit). You can see from the following picture of the before and after of the beach. The tide also made these really interesting patterns.
+We got there during tide change, and was able to watch the tide come in (actually got chased by the tide a bit). You can see from the following picture of the before and after of the beach. The tide also made these really interesting patterns. 
+
+_B Notes: Be aware of the tide schedule. I can imagine it could get dicey if you have little ones in tow and are not careful._
 
 <img src="/images/iceland2016/melanesrif2.jpg" width="800">
 
@@ -368,7 +408,7 @@ The North in general is flatter and more green.
 
 <img src="/images/iceland2016/north.jpg" width="800">
 
-Maybe we were spoiled by the beautiful sceneries in Westfjords, we didn't find the drive to the North as pretty, until we saw the snow covered mountains surrounded by clouds, over the ocean. From there, we made multiple stops trying to capture the view, but ultimately failed.
+Maybe we were spoiled by the beautiful sceneries in Westfjords, we didn't find the drive to the North as pretty. Well, until we saw the snow covered mountains surrounded by clouds, over the ocean. From there, we made multiple stops trying to capture the view, but ultimately failed.
 
 <img src="/images/iceland2016/north2.jpg" width="800">
 
@@ -378,7 +418,9 @@ Day 7 is a slow day. I originally planned for us to go whale watching, but B ins
 
 <img src="/images/iceland2016/olafsfjordur.jpg" width="800">
 
-In the afternoon, we went for a nice horseback riding tour at Tvistur Horse Rental. We rode along a river and enjoyed the sceneries there.
+In the afternoon, we went for a nice horseback riding tour at Tvistur Horse Rental. We rode along a river and enjoyed the sceneries there. 
+
+_B Notes: It was great fun for the whole family to ride together. Althought none of us are horse connoisseurs to fully appreciate the unique offerings of Icelandic horses, we had a great time riding with the owners of the horse farm. They took us along the river and actually crossing the river on horsebacks! Sidenotes: I also fell off my horse because of loose saddle. Luckily I grabbed onto the horse's mane before falling off completely. Also, taking pictures on horseback is a challenge. My iPhone fell off my hand. The horses took pity on me and didn't stepped on it._
 
 <img src="/images/iceland2016/horseriding.jpg" width="800">
 
@@ -419,7 +461,7 @@ On the Dynjandi Guesthouse owner's recommendation, we headed out in the morning 
 
 <img src="/images/iceland2016/glacieredge.jpg" width="800">
 
-Day 10's main event is the [Ice Lagoon Zodiac Boat Tour](http://icelagoon.is/zodiac-tours/). It is by far a better tour compare to the Amphibian Boat Tour, if you can stomach the ride to the glacier wall, as the rides on high speed rafts can be quite bumpy. The tour actually doesn't recommend bringing children under the age of 10, but A2 was 8 and was fine. She seemed to had a lot of fun.
+Day 10's main event is the [Ice Lagoon Zodiac Boat Tour](http://icelagoon.is/zodiac-tours/). It is by far a better tour compare to the Amphibian Boat Tour, if you can stomach the ride to the glacier wall, as the rides on high speed rafts can be quite bumpy. The tour actually doesn't recommend bringing children under the age of 10, but A2 was 8 and was fine. She was grinning ear to ear while she bummed along for the long ride to the edge of the glacier.
 
 <img src="/images/iceland2016/blueice.jpg" width="800">
 
@@ -447,14 +489,16 @@ After the beach, we took the ferry (Herjolfur) to Vestmannaeyjum, or the Westman
 
 > Vestmannaeyjar is a town and archipelago off the south coast of Iceland. The largest island, Heimaey, has a population of 4,135. The other islands are uninhabited, although six have single hunting cabins.
 
-We spent most of our time there at the public pool and eating the best meal in Inceland.
+We spent most of our time there at the public pool and eating the best meal in Iceland.
 
 <img src="/images/iceland2016/westman.jpg" width="800">
 
-Our last attraction stop of the Iceland trip is the Seljalandsfoss waterfall which is interesting because visitors can go behind the waterfall via a small trail. 
+Our last attraction stop of the Iceland trip is the Seljalandsfoss waterfall which is interesting because visitors can go behind the waterfall via a small trail. Again, waterproof jacket highly recommended.
 
 <img src="/images/iceland2016/seljalandsfoss.jpg" width="800">
 
 ### Day 12 - Shopping, Departure
 
-Day 12 and our final day in Iceland before heading back to the US. We did mostly shopping in the morning before returning the car to IceRentalCars and taking the shuttle to the airport.
+Day 12 and our final day in Iceland before heading back to the US. We did mostly shopping in the morning before returning the car to IceRentalCars and taking the shuttle to the airport. 
+
+_B Notes: We didn't eat fermented shark or other exotic treats but we had an amazing time in beautiful Iceland. We are bequeathed with fond memories by vast and picturesque landscape as well as genersity of Icelanders. This trip has opened our hearts and taught us more things than we have ever expected._
