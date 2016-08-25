@@ -1,7 +1,7 @@
 baseurl = "http://zhen.org/"
 languageCode = "en-us"
 title = "Zen 3.1"
-theme = "hyde"
+theme = "strata"
 copyright = "Jian Zhen. All Rights Reserved."
 
 [Author]

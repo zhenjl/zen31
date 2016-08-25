@@ -1,0 +1,18 @@
+{{ partial "head.html" . }}
+  <body id="top">
+
+{{ partial "sidebar.html" . }}
+
+      <div id="main">
+
+          <section>
+            <header class="major">
+              <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+              <p>{{ .Date.Format "Mon, Jan 2, 2006" }}</p>
+            </header>
+            <p>{{ .Content }}</p>
+
+            {{ partial "disqus.html" . }}
+          </section>
+
+{{ partial "footer.html" . }}

@@ -1,0 +1,26 @@
+{{ partial "head.html" . }}
+  <body id="top">
+
+{{ partial "sidebar.html" . }}
+
+      <div id="main">
+
+          <section>
+            <header class="major">
+              <h2>Archive</h2>
+            </header>
+            <div class="table-wrapper">
+              <table>
+                <tbody>
+                  {{ range .Data.Pages }}
+                  <tr>
+                    <td><a href="{{ .Permalink }}">{{ .Title }}</a></td>
+                    <td nowrap>{{ .Date.Format "Mon, Jan 2, 2006" }}</td>
+                  </tr>
+                  {{ end }}
+                </tbody>
+              </table>
+            </div>
+          </section>
+
+{{ partial "footer.html" . }}

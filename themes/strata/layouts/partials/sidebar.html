@@ -1,0 +1,26 @@
+		<!-- Header -->
+			<header id="header">
+				<a href="#" class="image avatar"><img src="/images/zhen.jpg" alt="" /></a>
+				<h1><strong><a href="/">{{ .Site.Title }}</a></strong></h1>
+				{{ with .Site.Params.description }}<p>{{ . }}</p>{{ end }}
+	      		<p><i class='fa fa-archive' style="margin-right: 0.5em"></i><a href="/blog">Archive</a></p>
+			    {{ range .Site.Menus.projects }}
+		        <p><i class='fa fa-github' style="margin-right: 0.5em"></i><a href="{{.URL}}">{{ .Name }}</a></li>
+      			{{ end }}
+			</header>
+
+
+		<!-- Footer -->
+			<footer id="footer">
+				<ul class="icons">
+				    {{ with .Site.Params.twitter }}<li><a href="{{.}}"><i class="fa fa-twitter"></i></a></li>{{end}}
+				    {{ with .Site.Params.linkedin }}<li><a href="{{.}}"><i class="fa fa-linkedin"></i></a></li>{{end}}
+    				{{ with .Site.Params.facebook }}<li><a href="{{.}}"><i class="fa fa-facebook"></i></a></li>{{end}}
+    				{{ with .Site.Params.github }}<li><a href="{{.}}"><i class="fa fa-github"></i></a></li>{{end}}
+    				{{ with .Site.Params.gplus }}<li><a href="{{.}}"><i class="fa fa-google-plus"></i></a></li>{{end}}
+				</ul>
+				<ul class="copyright">
+					<li>&copy; {{.Now.Format "2006"}} {{ .Site.Copyright }}
+					<br/><br/>Powered by <a href="http://gohugo.io">Hugo</a> | Design by <a href="http://html5up.net">HTML5 UP</a></li>
+				</ul>
+			</footer>

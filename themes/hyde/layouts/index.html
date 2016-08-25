@@ -24,10 +24,11 @@
 <div class="posts">
   <h1 class="post-title">Archive</h1>
   <ul class="posts">
-      {{ range first 10 .Data.Pages }}
+      {{ range first 15 (after 3 .Data.Pages) }}
       <li><span><a href="{{ .Permalink }}">{{ .Title }}</a> - <time class="pull-right post-list">{{ .Date.Format "Mon, Jan 2, 2006" }}</h4></time></span></li>
       {{ end }}
   </ul>
+  <a href="{{.Site.BaseURL}}/blog">More from the archive...</a>
 </div>
 
 </div>

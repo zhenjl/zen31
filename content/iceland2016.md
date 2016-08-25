@@ -99,6 +99,8 @@ We also brought good waterproof hiking shoes (like [these](https://www.rei.com/p
 
 The waterproof shoes also proved to be extremely useful when going INTO the glacier. Given it's July, the top layer of snow is melting and the water goes through the ice and drips into the glacier tunnel we visited, so sometimes there's a layer of water 1/4 - 1/2 inch deep that we need to walk through. 
 
+Other stuff to bring include sunglasses (must, especially for glacier hiking in the summer), sunscreen, and maybe a hat for each person.
+
 _B Notes: We also each brought a pair of sandals/flip flops. Most Airbnb/Guest House have a mud room which you will need to take of your shoes. It also help with all the swimming pools we visited. Lastly, if you accidentally fell in the river, you would have have something to wear while you try to dry your hiking boots and socks on the dashboard._ :-)
 
 ### Car Rental

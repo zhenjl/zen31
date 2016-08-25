@@ -1,0 +1,37 @@
+{{ partial "head.html" . }}
+  <body id="top">
+
+{{ partial "sidebar.html" . }}
+
+      <div id="main">
+
+          {{ range first 3 .Data.Pages }}
+          <section>
+            <header class="major">
+              <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+              <p>{{ .Date.Format "Mon, Jan 2, 2006" }}</p>
+            </header>
+            <p>{{ .Content }}</p>
+          </section>
+          {{ end }}
+
+          <section>
+            <header class="major">
+              <h2>Next 15 Posts</h2>
+            </header>
+            <div class="table-wrapper">
+              <table>
+                <tbody>
+                  {{ range first 15 (after 3 .Data.Pages) }}
+                  <tr>
+                    <td><a href="{{ .Permalink }}">{{ .Title }}</a></td>
+                    <td nowrap>{{ .Date.Format "Mon, Jan 2, 2006" }}</td>
+                  </tr>
+                  {{ end }}
+                </tbody>
+              </table>
+              <a href="{{.Site.BaseURL}}/blog">More from the archive...</a>
+            </div>
+          </section>
+
+{{ partial "footer.html" . }}
