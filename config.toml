@@ -16,19 +16,15 @@ copyright = "Jian Zhen. All Rights Reserved."
 	description = "Product. Data. Code"
 	twitter = "https://twitter.com/zhenjl"
 	linkedin = "http://linkedin.com/in/zhenjl"
+	github = "http://github.com/zhenjl"
 	disqusShortname = "zen30"
 
-[[menu.projects]]
-	name = "sequence"
+[[menu.sidebar]]
+	name = "Archive"
 	weight = 10
-	url = "http://sequencer.io"
+	url = "/blog"
 
-[[menu.projects]]
-	name = "surgemq"
+[[menu.sidebar]]
+	name = "Sequence"
 	weight = 20
-	url = "https://github.com/surgemq/surgemq"
-
-[[menu.projects]]
-	name = "others"
-	weight = 30
-	url = "https://github.com/zhenjl"
+	url = "http://sequencer.io"

@@ -3,9 +3,8 @@
 				<a href="#" class="image avatar"><img src="/images/zhen.jpg" alt="" /></a>
 				<h1><strong><a href="/">{{ .Site.Title }}</a></strong></h1>
 				{{ with .Site.Params.description }}<p>{{ . }}</p>{{ end }}
-	      		<p><i class='fa fa-archive' style="margin-right: 0.5em"></i><a href="/blog">Archive</a></p>
-			    {{ range .Site.Menus.projects }}
-		        <p><i class='fa fa-github' style="margin-right: 0.5em"></i><a href="{{.URL}}">{{ .Name }}</a></li>
+			    {{ range .Site.Menus.sidebar }}
+		        <p><a href="{{.URL}}">{{ .Name }}</a></li>
       			{{ end }}
 			</header>
 
